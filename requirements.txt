@@ -1,0 +1,6 @@
+openai
+numpy
+pandas
+scikit-learn
+joblib
+matplotlib
