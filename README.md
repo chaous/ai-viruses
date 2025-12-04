@@ -108,7 +108,7 @@ docker run --rm \
   python -m src.entropy_heatmap /lab_data/mixed.bin \
     --chunk-size 1024 \
     --output /lab_data/mixed_heatmap.png
-    ```
+```
 
 PNG появится в lab_data/
 
